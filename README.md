@@ -12,5 +12,11 @@ Some cool stuff I've been working on for fun.
 A simple 2D platformer game written in Python using the PyGame library.
 Mainly written in february, but small modifications were made since then.
 No longer in development, due to its successor, [SuperMupla](https://github.com/Krist0FF-T/supermupla).
-More info, screenshots and videos can be found in the [repo](https://github.com/Krist0FF-T/supermuki)
+More info, screenshots and videos can be found in the [repo](https://github.com/Krist0FF-T/supermuki).
+
+## MineCraft clone (aug)
+![image](https://github.com/Krist0FF-T/stuff/blob/main/readme_assets/minecraft_clone.png)
+A simple MineCraft clone written in C++ using [Raylib](https://www.raylib.com/).
+[Source code](https://github.com/Krist0FF-T/stuff/blob/main/minecraft_clone/)
+(Prepare for some spaghetti!)
 
